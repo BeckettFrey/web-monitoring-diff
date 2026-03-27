@@ -52,7 +52,7 @@ setup(
     long_description=read('README.md'),
     long_description_content_type='text/markdown',
     author="Environmental Data Governance Initiative",
-    author_email='EnviroDGI@protonmail.com',
+    author_email='code@beckettfrey.com',
     url='https://github.com/edgi-govdata-archiving/web-monitoring-diff',
     python_requires='>={}'.format('.'.join(str(n) for n in min_version)),
     packages=find_packages(exclude=['docs', 'tests']),
